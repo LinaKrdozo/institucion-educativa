@@ -18,9 +18,9 @@ Este proyecto se origina como un proyecto académico para la materia ingenieria 
 ![mapaNav2](https://user-images.githubusercontent.com/84297258/175445715-6a13a17d-825d-42a0-a4b1-45b961ee26cc.png)
 
 ## Tecnologías utilizadas
-HTML
-CSS
-javaScript
+- HTML
+- CSS
+- javaScript
 
 ## Instalación
 - puedes instalarlo clonando el repositorio del proyecto
