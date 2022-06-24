@@ -14,15 +14,15 @@ Este proyecto se origina como un proyecto académico para la materia ingenieria 
 
 5. Los archivos correspondientes a la carpeta img en la raiz, son el banco de imágenes utilizado para la pagina principal, asi como los estilos css.
 
-# mapa de navegación:
+## mapa de navegación:
 ![mapaNav2](https://user-images.githubusercontent.com/84297258/175445715-6a13a17d-825d-42a0-a4b1-45b961ee26cc.png)
 
-# Tecnologías utilizadas
+## Tecnologías utilizadas
 HTML
 CSS
 javaScript
 
-# Instalación
+## Instalación
 - puedes instalarlo clonando el repositorio del proyecto
 ```
 git clone https://github.com/LinaKrdozo/tu-ahorro-personal.git
@@ -31,5 +31,5 @@ git clone https://github.com/LinaKrdozo/tu-ahorro-personal.git
 
 - ejecutarlo en un editor de código fuente
 
-# Despliegue
+## Despliegue
 El proyecto de desplegó en la plataforma Heroku, para visualizar el proyecto haz click aqui: https://stark-scrubland-04078.herokuapp.com/contactanos.php
