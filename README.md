@@ -32,4 +32,4 @@ git clone https://github.com/LinaKrdozo/tu-ahorro-personal.git
 - ejecutarlo en un editor de código fuente
 
 ## Despliegue
-El proyecto de desplegó en la plataforma Heroku, para visualizar el proyecto haz click aqui: https://stark-scrubland-04078.herokuapp.com/contactanos.php
+El proyecto de desplegó en la plataforma Heroku, para visualizar el proyecto haz click aqui: https://stark-scrubland-04078.herokuapp.com/index.php
